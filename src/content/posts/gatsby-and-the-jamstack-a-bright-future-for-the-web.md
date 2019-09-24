@@ -1,6 +1,7 @@
 ---
 templateKey: post-page
 title: Gatsby And The JAMstack - A Bright Future For The Web!
+author: JAMStack WS
 date: 2019-09-22T14:59:25.544Z
 ---
 
